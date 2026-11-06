@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/facelessuser/pymdown-extensions/commit/7a3f1715c6903621ae96b9024c7d372636a5fa86",
       "git:hexsha": "7a3f1715c6903621ae96b9024c7d372636a5fa86",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T03:29:38.813091+00:00"
     },
     {
       "@id": "https://repolex.ai/r/facelessuser/pymdown-extensions/commit/ee1ecbffa0031b3ab1ced4ad7d9c51405b645b4c",
