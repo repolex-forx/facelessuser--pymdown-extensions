@@ -1242,7 +1242,9 @@
           "githubRepo": "cpython",
           "source": "stdlib:python"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/0e0060d09fc06735c8d7d937d05ffb244cf3da0c/chunk-001.nq.gz",
+      "dep": "dep/0e0060d09fc06735c8d7d937d05ffb244cf3da0c.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
