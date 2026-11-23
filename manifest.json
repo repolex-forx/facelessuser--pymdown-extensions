@@ -642,6 +642,606 @@
       ],
       "ast": [
         "aggregate/ast/0e0060d09fc06735c8d7d937d05ffb244cf3da0c/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0e0060d09fc06735c8d7d937d05ffb244cf3da0c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@babel/cli",
+          "ecosystem": "NPM",
+          "version": "8.0.4",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "8ed5db1bc5bed6c0b640cc06bae447acf6395c02",
+          "githubTag": "v8.0.4",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/core",
+          "ecosystem": "NPM",
+          "version": "8.0.1",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "b4be199c560f4940a3326db98e23eb547bcb120f",
+          "githubTag": "v8.0.1",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/eslint-parser",
+          "ecosystem": "NPM",
+          "version": "8.0.1",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "b4be199c560f4940a3326db98e23eb547bcb120f",
+          "githubTag": "v8.0.1",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/plugin-external-helpers",
+          "ecosystem": "NPM",
+          "version": "8.0.1",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "b4be199c560f4940a3326db98e23eb547bcb120f",
+          "githubTag": "v8.0.1",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/preset-env",
+          "ecosystem": "NPM",
+          "version": "8.0.2",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "73940a0aa2252b0f87261a5dff0c751472ef7a99",
+          "githubTag": "v8.0.2",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/register",
+          "ecosystem": "NPM",
+          "version": "8.0.1",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "b4be199c560f4940a3326db98e23eb547bcb120f",
+          "githubTag": "v8.0.1",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@fortawesome/fontawesome-free",
+          "ecosystem": "NPM",
+          "version": "7.3.1",
+          "githubOrg": "FortAwesome",
+          "githubRepo": "Font-Awesome",
+          "githubCommit": "14c65a3747d0f3b751f15831fc719236aea8729d",
+          "githubTag": "7.3.1",
+          "githubUrl": "git+https://github.com/FortAwesome/Font-Awesome.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@mdi/svg",
+          "ecosystem": "NPM",
+          "version": "7.4.47",
+          "githubOrg": "Templarian",
+          "githubRepo": "MaterialDesign-SVG",
+          "githubCommit": "9e04201d4557e729822fb57f62a316c3dea1d4a8",
+          "githubTag": "v7.4.47",
+          "githubUrl": "git+https://github.com/Templarian/MaterialDesign-SVG.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@primer/octicons",
+          "ecosystem": "NPM",
+          "version": "19.34.0",
+          "githubOrg": "primer",
+          "githubRepo": "octicons",
+          "githubUrl": "git+https://github.com/primer/octicons.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@rollup/plugin-babel",
+          "ecosystem": "NPM",
+          "version": "7.1.0",
+          "githubOrg": "rollup",
+          "githubRepo": "plugins",
+          "githubUrl": "git+https://github.com/rollup/plugins.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@rollup/plugin-terser",
+          "ecosystem": "NPM",
+          "version": "1.0.0",
+          "githubOrg": "rollup",
+          "githubRepo": "plugins",
+          "githubUrl": "git+https://github.com/rollup/plugins.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "autoprefixer",
+          "ecosystem": "NPM",
+          "version": "10.5.5",
+          "githubOrg": "postcss",
+          "githubRepo": "autoprefixer",
+          "githubCommit": "7e81ffff9d824968394bab6f81da2e2c2511cc49",
+          "githubTag": "10.5.5",
+          "githubUrl": "git+https://github.com/postcss/autoprefixer.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "babel-core",
+          "ecosystem": "NPM",
+          "version": "7.0.0-bridge.0",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubUrl": "https://github.com/babel/babel/tree/master/packages/babel-core",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "del",
+          "ecosystem": "NPM",
+          "version": "8.0.1",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "del",
+          "githubCommit": "f9412a3d60895a3ce3d5d62ba323112cec291838",
+          "githubTag": "v8.0.1",
+          "githubUrl": "git+https://github.com/sindresorhus/del.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint",
+          "ecosystem": "NPM",
+          "version": "10.10.0",
+          "githubOrg": "eslint",
+          "githubRepo": "eslint",
+          "githubCommit": "3f20a57c6293371b6193d3fb6746c2b7b2ac2689",
+          "githubTag": "v10.10.0",
+          "githubUrl": "git+https://github.com/eslint/eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp",
+          "ecosystem": "NPM",
+          "version": "5.0.1",
+          "githubOrg": "gulpjs",
+          "githubRepo": "gulp",
+          "githubCommit": "0003e9fd25ffc7dd8c4f1a9335c102b73de017c1",
+          "githubTag": "v5.0.1",
+          "githubUrl": "git+https://github.com/gulpjs/gulp.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-concat",
+          "ecosystem": "NPM",
+          "version": "2.6.1",
+          "githubOrg": "contra",
+          "githubRepo": "gulp-concat",
+          "githubCommit": "c179a8c491047eb980459fea6d0e2fd65d6d0ad1",
+          "githubTag": "v2.6.1",
+          "githubUrl": "git+https://github.com/contra/gulp-concat.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-eslint",
+          "ecosystem": "NPM",
+          "version": "6.0.0",
+          "githubOrg": "adametry",
+          "githubRepo": "gulp-eslint",
+          "githubCommit": "5dd78fad617d78f671ed5426ecda315316ad26e7",
+          "githubTag": "v6.0.0",
+          "githubUrl": "git+https://github.com/adametry/gulp-eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-if",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "robrich",
+          "githubRepo": "gulp-if",
+          "githubCommit": "1b846bb06421a47c972b28a333ab601a34a0a7fb",
+          "githubTag": "3.0.0",
+          "githubUrl": "git://github.com/robrich/gulp-if.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-postcss",
+          "ecosystem": "NPM",
+          "version": "10.0.0",
+          "githubOrg": "postcss",
+          "githubRepo": "gulp-postcss",
+          "githubCommit": "46533ec1ced0e8db61af609f4d5075ab9396e17b",
+          "githubTag": "10.0.0",
+          "githubUrl": "git+https://github.com/postcss/gulp-postcss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-replace",
+          "ecosystem": "NPM",
+          "version": "1.1.4",
+          "githubOrg": "lazd",
+          "githubRepo": "gulp-replace",
+          "githubCommit": "474b1e71e3b13ba16a64c199ec4679dff63969eb",
+          "githubTag": "v1.1.4",
+          "githubUrl": "git://github.com/lazd/gulp-replace.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-rev",
+          "ecosystem": "NPM",
+          "version": "12.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "gulp-rev",
+          "githubCommit": "60ab15c5a10456b6aa40f3c79a7c104e3f32fb97",
+          "githubTag": "v12.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/gulp-rev.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-rev-replace",
+          "ecosystem": "NPM",
+          "version": "0.4.4",
+          "githubOrg": "jamesknelson",
+          "githubRepo": "gulp-rev-replace",
+          "githubUrl": "git+https://github.com/jamesknelson/gulp-rev-replace.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-sass",
+          "ecosystem": "NPM",
+          "version": "6.0.1",
+          "githubOrg": "dlmanning",
+          "githubRepo": "gulp-sass",
+          "githubCommit": "333c4ced43c25771f396b7c369771c71c8f83b40",
+          "githubTag": "v6.0.1",
+          "githubUrl": "git+https://github.com/dlmanning/gulp-sass.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-sourcemaps",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "gulp-sourcemaps",
+          "githubRepo": "gulp-sourcemaps",
+          "githubCommit": "2bcfcbb11085d1d6ef54239abd156bf7a7e72cfe",
+          "githubTag": "v3.0.0",
+          "githubUrl": "git://github.com/gulp-sourcemaps/gulp-sourcemaps.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-stylelint",
+          "ecosystem": "NPM",
+          "version": "13.0.0",
+          "githubOrg": "olegskl",
+          "githubRepo": "gulp-stylelint",
+          "githubCommit": "95921fed4cea5b11feb04395675d3abeb38464db",
+          "githubTag": "v13.0.0",
+          "githubUrl": "git+https://github.com/olegskl/gulp-stylelint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gulp-stylelint-esm",
+          "ecosystem": "NPM",
+          "version": "4.0.0",
+          "githubOrg": "adorade",
+          "githubRepo": "gulp-stylelint-esm",
+          "githubCommit": "c0e31efcfd6e4c8cdb5eb6b1515892132a880940",
+          "githubTag": "v4.0.0",
+          "githubUrl": "git+https://github.com/adorade/gulp-stylelint-esm.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "postcss-inline-svg",
+          "ecosystem": "NPM",
+          "version": "6.0.0",
+          "githubOrg": "TrySound",
+          "githubRepo": "postcss-inline-svg",
+          "githubCommit": "bfced350f7b75bac3f87f9c68cf72e9153d5fb61",
+          "githubTag": "v6.0.0",
+          "githubUrl": "https://github.com/TrySound/postcss-inline-svg.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "postcss-pseudo-classes",
+          "ecosystem": "NPM",
+          "version": "0.4.0",
+          "githubOrg": "giuseppeg",
+          "githubRepo": "postcss-pseudo-classes",
+          "githubUrl": "git+https://github.com/giuseppeg/postcss-pseudo-classes.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "postcss-scss",
+          "ecosystem": "NPM",
+          "version": "4.0.9",
+          "githubOrg": "postcss",
+          "githubRepo": "postcss-scss",
+          "githubCommit": "e57f9bdfdfaf49ae72f379f968d43c441fd77d18",
+          "githubTag": "4.0.9",
+          "githubUrl": "git+https://github.com/postcss/postcss-scss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "postcss-sort-media-queries",
+          "ecosystem": "NPM",
+          "version": "6.7.1",
+          "githubOrg": "yunusga",
+          "githubRepo": "postcss-sort-media-queries",
+          "githubCommit": "fe54c3401637a6b153277a30e038499f87ac827d",
+          "githubTag": "v6.7.1",
+          "githubUrl": "git+https://github.com/yunusga/postcss-sort-media-queries.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "postcss-svgo",
+          "ecosystem": "NPM",
+          "version": "9.0.2",
+          "githubOrg": "cssnano",
+          "githubRepo": "cssnano",
+          "githubUrl": "git+https://github.com/cssnano/cssnano.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "promise",
+          "ecosystem": "NPM",
+          "version": "8.3.0",
+          "githubOrg": "then",
+          "githubRepo": "promise",
+          "githubCommit": "9d5851d7adefde580589a041ebfcbd030d39f6fd",
+          "githubTag": "8.3.0",
+          "githubUrl": "git+https://github.com/then/promise.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rollup",
+          "ecosystem": "NPM",
+          "version": "4.63.1",
+          "githubOrg": "rollup",
+          "githubRepo": "rollup",
+          "githubCommit": "78bfef0cb94479566f81012fafa372c84b90bd34",
+          "githubTag": "v4.63.1",
+          "githubUrl": "git+https://github.com/rollup/rollup.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rollup-plugin-output-manifest",
+          "ecosystem": "NPM",
+          "version": "2.0.0",
+          "githubOrg": "shuizhongyueming",
+          "githubRepo": "rollup-plugin-output-manifest",
+          "githubCommit": "d7cb35e97cd3c7251953e24c5ceb2d44f1247727",
+          "githubTag": "v2.0.0",
+          "githubUrl": "git+https://github.com/shuizhongyueming/rollup-plugin-output-manifest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sass",
+          "ecosystem": "NPM",
+          "version": "1.104.0",
+          "githubOrg": "sass",
+          "githubRepo": "dart-sass",
+          "githubCommit": "e01e268c6f6826ae309bf3105765d4c93024ebbc",
+          "githubTag": "1.104.0",
+          "githubUrl": "git+https://github.com/sass/dart-sass.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylelint",
+          "ecosystem": "NPM",
+          "version": "17.15.0",
+          "githubOrg": "stylelint",
+          "githubRepo": "stylelint",
+          "githubCommit": "0547bff875de8d2525a3eca4d6a22847aa6ded60",
+          "githubTag": "17.15.0",
+          "githubUrl": "git+https://github.com/stylelint/stylelint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylelint-config-rational-order",
+          "ecosystem": "NPM",
+          "version": "0.1.2",
+          "githubOrg": "constverum",
+          "githubRepo": "stylelint-config-rational-order",
+          "githubCommit": "35a64ac989e0da08be0b4e8d8673c297a2480f8b",
+          "githubTag": "v0.1.2",
+          "githubUrl": "git+https://github.com/constverum/stylelint-config-rational-order.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylelint-config-standard",
+          "ecosystem": "NPM",
+          "version": "40.0.0",
+          "githubOrg": "stylelint",
+          "githubRepo": "stylelint-config-standard",
+          "githubCommit": "fbbe7b8e3efaf6ad84084268944be412e4bee3df",
+          "githubTag": "40.0.0",
+          "githubUrl": "git+https://github.com/stylelint/stylelint-config-standard.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylelint-scss",
+          "ecosystem": "NPM",
+          "version": "7.2.0",
+          "githubOrg": "stylelint-scss",
+          "githubRepo": "stylelint-scss",
+          "githubCommit": "e7c92d143a99cac7822bc99632f6064037b7a9a9",
+          "githubTag": "v7.2.0",
+          "githubUrl": "git+https://github.com/stylelint-scss/stylelint-scss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "terser",
+          "ecosystem": "NPM",
+          "version": "5.51.2",
+          "githubOrg": "terser",
+          "githubRepo": "terser",
+          "githubCommit": "317f449862b8d48756818cdcaf67c22c31ec852c",
+          "githubTag": "v5.51.2",
+          "githubUrl": "git+https://github.com/terser/terser.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "vinyl-paths",
+          "ecosystem": "NPM",
+          "version": "5.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "vinyl-paths",
+          "githubCommit": "5af510895654284b4d099235ca2c6a2e2e3d72f9",
+          "githubTag": "v5.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/vinyl-paths.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "yargs",
+          "ecosystem": "NPM",
+          "version": "18.1.0",
+          "githubOrg": "yargs",
+          "githubRepo": "yargs",
+          "githubCommit": "8878a894111e3fe7c98d84af546c0f34fa017492",
+          "githubTag": "v18.1.0",
+          "githubUrl": "git+https://github.com/yargs/yargs.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "markdown",
+          "ecosystem": "PYPI",
+          "version": "3.6",
+          "githubOrg": "Python-Markdown",
+          "githubRepo": "markdown",
+          "githubCommit": "e524b8fe938738cb4492411a34cce89051cb9695",
+          "githubTag": "3.6",
+          "githubUrl": "https://github.com/Python-Markdown/markdown",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pyyaml",
+          "ecosystem": "PYPI",
+          "version": "6.0.4",
+          "githubOrg": "yaml",
+          "githubRepo": "pyyaml",
+          "githubCommit": "575f0e87bcc3b95f4df8da4aaddb0bef4e4553fc",
+          "githubTag": "6.0.4",
+          "githubUrl": "https://github.com/yaml/pyyaml",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pygments",
+          "ecosystem": "PYPI",
+          "version": "2.19.1",
+          "githubOrg": "pygments",
+          "githubRepo": "pygments",
+          "githubCommit": "b583de4794e94b4dc4c2da03a7c29f462482293e",
+          "githubTag": "2.19.1",
+          "githubUrl": "https://github.com/pygments/pygments",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "unittest.case",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "argparse",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "genericpath",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "posixpath",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "ntpath",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "xml.etree.ElementTree",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "re",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "builtins",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "textwrap",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "typing",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "lib.es5.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.dom.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.promise.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "sys",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "os",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        }
       ]
     }
   ],
